@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam178&count_private=true&show_icons=true&theme=synthwave)
+[![Shivam's GitHub stats-Dark](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api?username=shivam178&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Shivam's GitHub stats-Light](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api?username=shivam178&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam178&layout=compact&hide=cmake,makefile,c&theme=synthwave)
 
