@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/" target="typescript"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="30" height="30"/> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="30" height="30"/> </a> 
 </p>
+<br />
+
+<h2> Some Programming Humor for you </h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
