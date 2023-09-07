@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 </p>
 <br />
 
+[![Views](https://visitcount.itsvg.in/api?id=mohammad&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<br />
 <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
