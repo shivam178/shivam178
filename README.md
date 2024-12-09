@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="javascript"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://www.typescriptlang.org/" target="typescript"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="30" height="30"/> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="30" height="30"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/user-attachments/assets/92d1660c-6f5d-47b6-8208-3fbe2fbd34cd" alt="python" width="80" height="30"/> </a> 
+
+  
 </p>
 <br />
 
